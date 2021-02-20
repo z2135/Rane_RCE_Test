@@ -16,6 +16,8 @@ note.js为学习过程中的笔记记录
 
 经过查看源代码，可以轻松找到加密方式及提供的接口，在文件中已做详细注释，请勿利用该测试记录干扰游戏进程
 
+在windows下运行需要改python目录下lib目录里的subprocess.py文件的编码,init的encoding改为utf-8
+
 ### 心得
 
 qq小程序源代码保存与Data/data/com.tencent.mobileqq/files/minigame，以文件夹存储，无需解密
