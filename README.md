@@ -10,7 +10,7 @@ postcode.py为实现请求发送的python文件
 
 deceode.js为实现加密解密的js源码
 
-note.js为学习过程中的笔记记录
+game.js为游戏源代码
 
 ### 使用说明
 
